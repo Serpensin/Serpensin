@@ -42,10 +42,6 @@ Here are some of my notable projects:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serpensin&layout=compact&theme=radical)
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thanks for visiting my GitHub! 😊
