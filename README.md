@@ -24,6 +24,7 @@ Feel free to explore my repositories and projects!
 
 Here are some of my notable projects:
 
+- **[GModContentWizard](https://github.com/Serpensin/GmodContentInstaller)**: A simple tool to easily install content like CSS for GMod.
 - **[Bot Template](https://github.com/Serpensin/DiscordBots-Basis)**: The template for all my discord.py bots.
 - **[DBDStats](https://github.com/Serpensin/DiscordBots-DBDStats)**: A bot, that displays infos about DeadByDaylight.
 - **[Bouncer](https://github.com/Serpensin/DiscordBots-Bouncer)**: A bot, that lets users verify by completing a captcha inside discord (like the payed Captcha.bot).
