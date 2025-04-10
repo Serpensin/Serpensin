@@ -16,7 +16,7 @@ Feel free to explore my repositories and projects!
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, C#
-- **Frameworks**: .NET 8
+- **Frameworks**: .NET 9, Discord.py
 - **Platforms**: Discord, Windows, Debian
 - **Tools**: Visual Studio, VS Code, Docker
 
