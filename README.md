@@ -8,7 +8,7 @@
 Hi, I'm **Serpensin**! I'm a tech enthusiast and hobby programmer specializing in:
 
 - **Python**: Primarily working on Discord bots with `discord.py`.
-- **C#**: Developing applications using .NET 8 and WinForms.
+- **C#**: Developing applications using .NET 9 and WinForms.
 - **Games and Electronics**: Always up for a chat about the latest in gaming and tech!
 
 Feel free to explore my repositories and projects!
@@ -28,13 +28,12 @@ Here are some of my notable projects:
 - **[Bot Template](https://github.com/Serpensin/DiscordBots-Basis)**: The template for all my discord.py bots.
 - **[DBDStats](https://github.com/Serpensin/DiscordBots-DBDStats)**: A bot, that displays infos about DeadByDaylight.
 - **[Bouncer](https://github.com/Serpensin/DiscordBots-Bouncer)**: A bot, that lets users verify by completing a captcha inside discord (like the payed Captcha.bot).
-- **[Hercules](https://github.com/Serpensin/DiscordBots-Hercules)**: A bot, that obfuscates lua files, using [this](https://github.com/Serpensin/hercules-obfuscator), which is a fork of [that](https://github.com/zeusssz/hercules-obfuscator) repository.
+- **[Hercules](https://github.com/Serpensin/DiscordBots-Hercules)**: A bot, that obfuscates lua files, using [this](https://github.com/zeusssz/hercules-obfuscator) repository.
 - **[Discord Emoji Downloader](https://github.com/Serpensin/Discord-Emoji-Downloader)** A smal tool, that downloads all emojis and stickers from a server you're currently in.
 
 ## 🌟 Get in Touch
 
-- **GitHub**: [Serpensin](https://github.com/Serpensin)
-- **GitLab**: [Serpensin](https://gitlab.bloodygang.com/Serpensin)
+- **GitHub**: [Serpensin](https://serpensin.com/)
 - **Discord**: [pika.pika.no.mi](https://discord.com/invite/NArvGBMBqA)
 - **Top.GG**: [pika.pika.no.mi](https://top.gg/user/563076026724691968)
 
