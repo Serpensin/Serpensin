@@ -29,7 +29,7 @@ Here are some of my notable projects:
 - **[DBDStats](https://github.com/Serpensin/DiscordBots-DBDStats)**: A bot, that displays infos about DeadByDaylight.
 - **[Bouncer](https://github.com/Serpensin/DiscordBots-Bouncer)**: A bot, that lets users verify by completing a captcha inside discord (like the payed Captcha.bot).
 - **[Hercules](https://github.com/Serpensin/DiscordBots-Hercules)**: A bot, that obfuscates lua files, using [this](https://github.com/zeusssz/hercules-obfuscator) repository.
-- **[Discord Emoji Downloader](https://github.com/Serpensin/DiscordEmojiDownloader)** A smal tool, that downloads all emojis and stickers from a server you're currently in.
+- **[Discord Emoji Downloader](https://github.com/Serpensin/DiscordEmojiDownloader)** A small tool, that downloads all emojis and stickers from a server you're currently in.
 
 ## 🌟 Get in Touch
 
